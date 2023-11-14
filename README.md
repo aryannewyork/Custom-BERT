@@ -25,7 +25,7 @@ To deploy this project run the training and main notebooks, by correctly mountin
 
     [Inference Notebook](https://colab.research.google.com/drive/1vbAoMMevk7sli7s-DlmTVmwagYgnra0m?usp=sharing)
 
-    [Model Drive link](https://drive.google.com/file/d/1-3QDzZdNJcv5odoNpwAFw8ieEm1tJscn/view?usp=sharing)
+    [Model Drive link](https://drive.google.com/file/d/18sQNT-u8WhZUpPtTW07DzoU-1tXnju0Z/view?usp=sharing)
 
 
 ## Statistics 
